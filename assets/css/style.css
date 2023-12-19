@@ -11,7 +11,13 @@ body {
 }
 
 /* Header */
-
+header {
+    position: fixed;
+    margin-top: auto;
+    z-index: 100;
+    background-color: darkgreen;
+    width: 100%;
+}
 
 /* Main */
 
