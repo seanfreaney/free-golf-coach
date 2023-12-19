@@ -14,6 +14,7 @@ body {
     flex-direction: column;
     font-family: "poppins", sans-serif;
     font-weight: 200;
+    
 }
 
 /* Header */
@@ -23,10 +24,12 @@ header {
     z-index: 100;
     background-color: rgba(154, 231, 186, 0.308);
     width: 100%;
+    color: black;
 }
 
 header a {
     text-decoration: none;
+    color: inherit;
 }
 /* Main */
 
