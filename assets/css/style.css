@@ -21,10 +21,13 @@ header {
     position: fixed;
     margin-top: auto;
     z-index: 100;
-    background-color: darkgreen;
+    background-color: rgba(154, 231, 186, 0.308);
     width: 100%;
 }
 
+header a {
+    text-decoration: none;
+}
 /* Main */
 
 
