@@ -1,3 +1,7 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+
 /* General Style */
 body {
     min-height: 100vh;
@@ -13,5 +17,6 @@ body {
 
 /* Footer */ 
 footer {
+    /* Push footer to bottom of page */
     margin-top: auto;
 }
