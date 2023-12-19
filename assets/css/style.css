@@ -1,0 +1,17 @@
+/* General Style */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+
+
+/* Main */
+
+
+/* Footer */ 
+footer {
+    margin-top: auto;
+}
