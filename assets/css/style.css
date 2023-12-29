@@ -34,6 +34,16 @@ h1 {
     font-size: 26px;
 }
 
+/* Header content */
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    display: inline-block;
+}
+
 /* Navbar container */
 .navbar {
     overflow: hidden;
@@ -53,8 +63,8 @@ h1 {
 
 /* The dropdown container */
 .dropdown {
-    float: left;
-    overflow: hidden;
+    display: inline-block;
+    position: relative;
 }
 
 /* Dropdown button */
@@ -85,6 +95,8 @@ h1 {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px;
     z-index: 1;
+    top: 0;
+    left: 100%;
 }
 
 /* Links inside the dropdown */
