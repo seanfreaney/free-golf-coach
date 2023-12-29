@@ -99,8 +99,8 @@ header a {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: inherit;
-    min-width: 110px;
+    background-color: rgba(154, 231, 186, 1);
+    min-width: 280px;
     z-index: 101;
     top: 100%;
     right: 0;
@@ -115,6 +115,12 @@ header a {
     text-align: left;
 }
 
+/* Link in dropdown display beneath logo */
+.dropdown-content ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
@@ -124,6 +130,7 @@ header a {
 
 /* Main */
 main {
+    /* Ensure margin visible beneath header */
     margin-top: 50px;
 }
 
