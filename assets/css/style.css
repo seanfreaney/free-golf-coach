@@ -23,6 +23,7 @@ header {
     background-color: rgba(154, 231, 186, 1);
     width: 100%;
     color: black;
+    box-shadow: 0 2px 2px rgba(154, 231, 186, 1);
 }
 
 header a {
