@@ -121,8 +121,11 @@ header a {
 }
 
 
-/* Main */
 
+/* Main */
+main {
+    margin-top: 50px;
+}
 
 
 /* Footer */ 
