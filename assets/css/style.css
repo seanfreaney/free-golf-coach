@@ -75,7 +75,7 @@ header a {
     border: none;
     outline: none;
     color: black;
-    padding: 14px 16px;
+    padding: 10px 20px;
     background-color: inherit;
     font-family: inherit;
     /* Important for vertical align on mobile phones */
@@ -101,7 +101,7 @@ header a {
 }
 
 /* Links inside the dropdown */
-.dropdown-content a li {
+.dropdown-content a {
     float: none;
     color: black;
     text-decoration: none;
