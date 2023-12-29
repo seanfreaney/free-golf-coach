@@ -13,8 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     font-family: "poppins", sans-serif;
-    font-weight: 200;
-    
 }
 
 /* Header */
@@ -22,7 +20,7 @@ header {
     position: fixed;
     margin-top: auto;
     z-index: 100;
-    background-color: rgba(154, 231, 186, 0.308);
+    background-color: rgba(154, 231, 186, 1);
     width: 100%;
     color: black;
 }
@@ -31,7 +29,87 @@ header a {
     text-decoration: none;
     color: inherit;
 }
+
+h1 {
+    font-size: 26px;
+}
+
+/* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: rgba(154, 231, 186, 1);
+    font-family: "poppins", sans-serif;
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: inherit;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: inherit;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    /* Important for vertical align on mobile phones */
+    margin: 0;
+    /* Important for vertical align on mobile phones */
+}
+
+/* Add underline navbar links on hover */
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    text-decoration: underline;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: inherit;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
 /* Main */
+
 
 
 /* Footer */ 
