@@ -27,7 +27,7 @@ header {
 }
 
 header h1 {
-    font-size: 25px;
+    font-size: 24px;
 }
 
 header a {
@@ -41,6 +41,8 @@ header a {
     align-items: center;
     /* Add space between the logo and the dropdown */
     justify-content: space-between; 
+    /* Move logo from left edge of page */
+    padding-left: 8px;
 }
 
 /* Logo style */
