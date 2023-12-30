@@ -159,7 +159,22 @@ footer {
         display: none;
     }
 
+    /* Display dropdown content in line with Logo*/
+    .header-content {
+        justify-content: space-between;
+    }
+    
+    /* Style the list items in the header */
+    .navbar ul {
+        display: flex;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+
     /* Show the dropdown content */
     .dropdown-content {
         display: flex;
+        position: relative;
+    }
 }
