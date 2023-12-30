@@ -172,6 +172,10 @@ footer {
         padding: 0;
     }
 
+    .navbar li {
+        margin-right: 1em;
+    }
+
     /* Show the dropdown content */
     .dropdown-content {
         display: flex;
