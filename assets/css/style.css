@@ -146,7 +146,14 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: aquamarine;
 }
+
+#footer i {
+    color: black;
+}
+
+
 /* Media query for devices >=768px */
 @media screen and (min-width: 768px) {
 
@@ -190,5 +197,10 @@ footer {
     /* Main Content */
     main {
         margin-top: 60px;
+    }
+
+    /* Footer Content */
+    #footer i {
+        font-size: 200%;
     }
 }
