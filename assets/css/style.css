@@ -40,7 +40,7 @@ header a {
     display: flex;
     align-items: center;
     /* Add space between the logo and the dropdown */
-    justify-content: space-between; 
+    justify-content: space-between;
     /* Move logo from left edge of page */
     padding-left: 8px;
 }
@@ -104,6 +104,7 @@ header a {
     z-index: 101;
     top: 100%;
     right: 0;
+
 }
 
 /* Links inside the dropdown */
@@ -135,8 +136,22 @@ main {
 }
 
 
-/* Footer */ 
+/* Footer */
 footer {
     /* Push footer to bottom of page */
     margin-top: auto;
+}
+
+/* Media query for devices >=768px */
+@media screen and (min-width: 768px) {
+
+    /* Header text Responsivity */
+    header h1 {
+        font-size: 250%;
+    }
+    
+    .navbar a {
+        font-size: 150%;
+    }
+    
 }
