@@ -36,7 +36,6 @@ header a {
 }
 
 /* Current page underline for page links (Love Running) */
-
 .active {
     border-bottom: 2px solid black;
 }
@@ -132,6 +131,13 @@ header a {
 main {
     /* Ensure margin visible beneath header */
     margin-top: 50px;
+}
+
+/* Hero (Love Running) */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-tom-piotrowski-1608383.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
