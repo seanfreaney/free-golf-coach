@@ -181,4 +181,9 @@ footer {
         display: flex;
         position: relative;
     }
+
+    /* Main Content */
+    main {
+        margin-top: 60px;
+    }
 }
