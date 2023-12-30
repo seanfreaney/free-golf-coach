@@ -91,10 +91,10 @@ header a {
 }
 
 /* Add underline navbar links on hover */
-.navbar a:hover,
-.dropdown:hover .dropbtn {
-   border-bottom: 2px solid black;
-}
+/* .navbar a:hover, */
+/* .dropdown:hover .dropbtn { */
+/* border-bottom: 2px solid black; */
+/* } */
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
