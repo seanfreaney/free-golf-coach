@@ -51,11 +51,6 @@ header a {
     padding-left: 8px;
 }
 
-/* Logo style */
-.logo {
-    font-size: 10px;
-}
-
 /* Navbar container */
 .navbar {
     /*overflow: hidden;*/
