@@ -153,5 +153,13 @@ footer {
     .navbar a {
         font-size: 150%;
     }
-    
+ 
+    /* Hide the dropdown button */
+    .dropbtn {
+        display: none;
+    }
+
+    /* Show the dropdown content */
+    .dropdown-content {
+        display: flex;
 }
