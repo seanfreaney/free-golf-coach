@@ -35,6 +35,12 @@ header a {
     color: inherit;
 }
 
+/* Current page underline for page links (Love Running) */
+
+.active {
+    border-bottom: 2px solid black;
+}
+
 /* Header content */
 .header-content {
     display: flex;
@@ -92,7 +98,7 @@ header a {
 /* Add underline navbar links on hover */
 .navbar a:hover,
 .dropdown:hover .dropbtn {
-    text-decoration: underline;
+   border-bottom: 2px solid black;
 }
 
 /* Dropdown content (hidden by default) */
