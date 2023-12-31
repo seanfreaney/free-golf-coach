@@ -149,13 +149,14 @@ main {
     border-radius: 10px;
     text-align: justify;
     position: absolute;
-    top: 40px;
+    top: 30px;
+    width: 60%;
 }
 
 #about h2 {
     color: #333;
     text-align: center;
-    font-size: 90%;
+    font-size: 110%;
 }
 
 #about h3 {
@@ -229,6 +230,18 @@ footer {
     /* Main Content */
     main {
         margin-top: 60px;
+    }
+
+    #about {
+        width: 45%;
+    }
+
+    #about h2 {
+        font-size: 180%;
+    }
+
+    #about h3 {
+        font-size: 100%;
     }
 
     /* Footer Content */
