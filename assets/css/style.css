@@ -187,6 +187,11 @@ main {
     font-size: 80%;
 }
 
+#community {
+    height: 300px;
+    background-color: #f2f2f2;
+}
+
 /* Footer */
 footer {
     /* Push footer to bottom of page */
