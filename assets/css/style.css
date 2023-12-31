@@ -138,6 +138,7 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/back-view-man-playing-golf-field.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
 /* Footer */
@@ -152,11 +153,14 @@ footer {
     list-style-type: none;
     background-color: #f2f2f2;
     box-shadow: 0 -2px 2px #f2f2f2;
+    height: 45px;
+    align-items: center;
 }
 
 #footer i {
     color: black;
     padding: 10%;
+    font-size: 20px;
 }
 
 
@@ -207,6 +211,6 @@ footer {
 
     /* Footer Content */
     #footer i {
-        font-size: 200%;
+        font-size: 180%;
     }
 }
