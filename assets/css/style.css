@@ -254,6 +254,10 @@ footer {
         margin-top: 60px;
     }
 
+    #hero {
+        height: 800px;
+    }
+
     #about {
         width: 30%;
         margin-left: 30px;
