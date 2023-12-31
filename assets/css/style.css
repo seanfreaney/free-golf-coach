@@ -164,6 +164,7 @@ main {
     font-size: 80%;
 }
 
+
 /* Footer */
 footer {
     /* Push footer to bottom of page */
@@ -248,5 +249,17 @@ footer {
     /* Footer Content */
     #footer i {
         font-size: 180%;
+    }
+}
+
+/* Media query for devices >=1200px */
+@media screen and (min-width: 1200px) {
+    /* Main Content */
+    #hero {
+        height: 1000px;
+    }
+
+    #about {
+        top: 100px;
     }
 }
