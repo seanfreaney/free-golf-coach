@@ -344,6 +344,28 @@ footer {
         font-size: 100%;
     }
 
+    #community-expl {
+        width: 30%;
+        margin-left: 30px;
+    }
+    
+    #community-expl h2 {
+        font-size: 160%;
+    }
+    
+    #community-expl h3 {
+    font-size: 100%;
+    }
+
+    /* Community */
+    #community-banner {
+        height: 60px;
+    }
+
+    #community-banner h1 {
+        font-size: 250%;
+    }
+
     /* Footer Content */
     #footer i {
         font-size: 180%;
