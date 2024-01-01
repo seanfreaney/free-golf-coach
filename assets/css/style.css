@@ -187,8 +187,10 @@ main {
     font-size: 80%;
 }
 
+/* Community section */
+
 #community {
-    height: 300px;
+    height: 350px;
     background: url(../images/pexels-kindel-media-6573872.jpg) no-repeat center center/cover;
 }
 
@@ -206,11 +208,18 @@ main {
     background-color: rgba(241, 232, 232, 0.5);
     padding: 10px;
     border-radius: 10px;
-    position: absolute;
+    position: relative;
+    max-width: 280px;
     color: #333;
     font-size: 80%;
     margin: 10px;
-    font-family: inherit; 
+    font-weight: 900;
+    display: grid;
+}
+
+#handicap {
+    display: flex;
+    justify-content: space-between;
 }
 
 /* Footer */
