@@ -200,6 +200,19 @@ main {
     display: flex;
     box-shadow: 0 2px 2px #f2f2f2, 0 -2px 2px #f2f2f2;
 }
+
+/* Community sign-up form */
+#community-signup {
+    background-color: rgba(241, 232, 232, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    color: #333;
+    font-size: 80%;
+    margin: 10px;
+    font-family: inherit; 
+}
+
 /* Footer */
 footer {
     /* Push footer to bottom of page */
