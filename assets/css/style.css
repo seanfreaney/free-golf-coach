@@ -15,6 +15,10 @@ body {
     font-family: "poppins", sans-serif;
 }
 
+h1 {
+    font-size: 24px;
+}
+
 /* Header */
 header {
     position: fixed;
@@ -24,10 +28,6 @@ header {
     width: 100%;
     color: black;
     box-shadow: 0 2px 2px #f2f2f2;
-}
-
-header h1 {
-    font-size: 24px;
 }
 
 header a {
@@ -190,6 +190,7 @@ main {
 #community {
     height: 300px;
     background-color: #f2f2f2;
+    padding-left: 8px;
 }
 
 /* Footer */
