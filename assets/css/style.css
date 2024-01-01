@@ -189,10 +189,17 @@ main {
 
 #community {
     height: 300px;
-    background-color: #f2f2f2;
-    padding-left: 8px;
+    background: url(../images/pexels-kindel-media-6573872.jpg) no-repeat center center/cover;
 }
 
+#community-banner {
+    height: 50px;
+    background-color: #f2f2f2;
+    padding-left: 8px;
+    align-items: center;
+    display: flex;
+    box-shadow: 0 2px 2px #f2f2f2, 0 -2px 2px #f2f2f2;
+}
 /* Footer */
 footer {
     /* Push footer to bottom of page */
