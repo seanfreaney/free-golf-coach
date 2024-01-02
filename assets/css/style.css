@@ -250,8 +250,13 @@ main {
 
 /* Long-Game */
 .media-container {
-    display: grid;
-    gap: 20px;
+    height: 400px;
+    width: 90%;
+    overflow-y: auto;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    margin: auto;
 }
 
 #long-game {
