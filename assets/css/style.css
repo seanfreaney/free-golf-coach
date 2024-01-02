@@ -249,14 +249,15 @@ main {
 }
 
 /* Long-Game */
-.media-container {
-    height: 400px;
+.media-container-1 {
+    height: 250px;
     width: 90%;
     overflow-y: auto;
     display: flex;
     gap: 5px;
     justify-content: center;
     margin: auto;
+    align-items: center;
 }
 
 #long-game {
