@@ -250,7 +250,8 @@ main {
 
 /* Long-Game */
 .media-container {
-    
+    display: grid;
+    gap: 20px;
 }
 
 #long-game {
