@@ -216,6 +216,7 @@ main {
 #community {
     height: 400px;
     background: url(../images/pexels-kindel-media-6573872.jpg) no-repeat center center/cover;
+    width: 100%;
 }
 
 #community-banner {
