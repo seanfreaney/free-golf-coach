@@ -255,6 +255,7 @@ main {
     padding: 10px;
     color: #333;
     width: fit-content;
+    margin-left: 8px;
 }
 
 .media-container-label h2 {
