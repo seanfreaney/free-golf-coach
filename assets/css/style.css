@@ -160,7 +160,7 @@ main {
     font-size: 110%;
 }
 
-#about h3 {
+#about p {
     color: #333;
     font-size: 80%;
 }
@@ -184,7 +184,7 @@ main {
     font-size: 110%;
 }
 
-#stats h3 {
+#stats p {
     color: #333;
     font-size: 80%;
 }
@@ -206,7 +206,7 @@ main {
     font-size: 110%;
 }
 
-#community-expl h3 {
+#community-expl p {
     color: #333;
     font-size: 80%;
 }
@@ -265,7 +265,7 @@ main {
     text-align: center;
 }
 
-.media-container-label h3 {
+.media-container-label p {
     color: #333;
     font-size: 80%;
 }
@@ -371,7 +371,7 @@ footer {
         font-size: 160%;
     }
 
-    #about h3 {
+    #about p {
         font-size: 100%;
     }
 
@@ -385,7 +385,7 @@ footer {
         font-size: 160%;
     }
 
-    #stats h3 {
+    #stats p {
         font-size: 100%;
     }
 
@@ -398,7 +398,7 @@ footer {
         font-size: 160%;
     }
     
-    #community-expl h3 {
+    #community-expl p {
     font-size: 100%;
     }
 
