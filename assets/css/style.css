@@ -249,6 +249,10 @@ main {
 }
 
 /* Long-Game */
+.media-container-label {
+    background-color: rgba(241, 232, 232, 0.5)
+}
+
 .media-container-1 {
     height: 250px;
     width: 90%;
