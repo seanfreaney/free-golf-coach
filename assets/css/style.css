@@ -238,6 +238,7 @@ main {
     color: #333;
     font-size: 80%;
     margin: 10px;
+    /* Font match page styling */
     font-weight: 900;
     display: grid;
     justify-content: center;
@@ -249,17 +250,13 @@ main {
 }
 
 /* Long-Game */
-section br {
-    /* Add space between header and text */
-    height: 5px;
-}
 .media-container-label {
     background-color: rgba(241, 232, 232, 0.5);
     border-radius: 10px;
     padding: 10px;
     color: #333;
     width: fit-content;
-    margin-left: 8px;
+    margin: 8px;
     text-align: justify;
 }
 
@@ -408,7 +405,6 @@ footer {
     /* Community */
     #community {
         /* height: 450px; */
-        
     }
 
     #community-banner {
@@ -423,6 +419,14 @@ footer {
         font-size: 100%;
         margin-left: 30px;
     }
+
+    /* Long Game */
+    .media-container-label {
+        width: 50%;
+        /* hubspot blog - center div contents */
+        transform: translate(50%);
+    }
+
 
     /* Footer Content */
     #footer i {
