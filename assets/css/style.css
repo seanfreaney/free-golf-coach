@@ -291,7 +291,7 @@ section br {
     background: url("../images/back-view-man-grassy-golf-field.jpg") no-repeat center center/cover;
     position: relative;
     /* Ensure content fits over image */
-    overflow: hidden;
+    overflow: auto;
 }
 
 /* Footer */
