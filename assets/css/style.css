@@ -249,6 +249,10 @@ main {
 }
 
 /* Long-Game */
+section br {
+    /* Add space between header and text */
+    height: 5px;
+}
 .media-container-label {
     background-color: rgba(241, 232, 232, 0.5);
     border-radius: 10px;
