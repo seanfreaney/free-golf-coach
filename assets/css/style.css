@@ -230,15 +230,21 @@ main {
 }
 
 /* Community sign-up form */
+#community-form {
+    width: 100%;
+    justify-content: center;
+}
+
 #community-signup {
     background-color: rgba(241, 232, 232, 0.7);
     padding: 8px;
     border-radius: 10px;
     position: relative;
-    max-width: 280px;
+    max-width: fit-content;
     color: #333;
     font-size: 80%;
-    margin: 10px;
+    margin: auto;
+    margin-top: 40px;
     /* Font match page styling */
     font-weight: 900;
     display: grid;
