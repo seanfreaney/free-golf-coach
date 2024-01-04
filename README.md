@@ -66,4 +66,39 @@ Ultimately, I would like this to be a content management site where users can sh
 
 ### Unfixed Bugs
 - __Video Content__
-  - I would like to add additional styling to video containers. I want to only show one video in each container at a time and allow users to scroll through to their preferred video.
+  - I would like to add additional styling to video containers. I want to only show one video in each container at a time and allow users to click an arrow to scroll through to their preferred video.(I did some research and this required javascript).
+
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+- The live link can be found here: <https://seanfreaney.github.io/free-golf-coach/>
+
+### Credits
+
+## Navbar
+W3C Schools
+<https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp#:~:text=Use%20a%20container%20element%20(like>,dropdown%20menu%20correctly%20with%20CSS
+
+## Font Awesome
+- __Link__
+  - Youtube
+  - <https://www.youtube.com/watch?v=8-VRIEaIKqI>
+
+- __Icons__
+  - Icons from Font Awesome.
+
+## Media
+- __Youtube__
+  - Tutorial videos are all taken from Youtube.
+- __Freepik.com__
+  - Background images for Home, Short Game and Long Game pages.
+- __Pexels.com__
+  - Background image for Community. 
+
+## Images
+
