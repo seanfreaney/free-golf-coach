@@ -145,7 +145,7 @@ main {
 
 /* About text over hero image */
 #about {
-    background-color: rgba(241, 232, 232, 0.5);
+    background-color: rgba(241, 232, 232, 0.7);
     padding: 10px;
     border-radius: 10px;
     text-align: justify;
@@ -168,7 +168,7 @@ main {
 
 /* Stats over hero image */
 #stats {
-    background-color: rgba(241, 232, 232, 0.5);
+    background-color: rgba(241, 232, 232, 0.7);
     padding: 10px;
     border-radius: 10px;
     text-align: justify;
@@ -191,7 +191,7 @@ main {
 }
 
 #community-expl {
-    background-color: rgba(241, 232, 232, 0.5);
+    background-color: rgba(241, 232, 232, 0.7);
     padding: 10px;
     border-radius: 10px;
     text-align: justify;
@@ -231,7 +231,7 @@ main {
 
 /* Community sign-up form */
 #community-signup {
-    background-color: rgba(241, 232, 232, 0.5);
+    background-color: rgba(241, 232, 232, 0.7);
     padding: 8px;
     border-radius: 10px;
     position: relative;
@@ -252,7 +252,7 @@ main {
 
 /* Long Game and Short Game media containers */
 .media-container-label {
-    background-color: rgba(241, 232, 232, 0.5);
+    background-color: rgba(241, 232, 232, 0.7);
     border-radius: 10px;
     padding: 10px;
     color: #333;
