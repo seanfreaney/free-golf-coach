@@ -254,7 +254,7 @@ main {
     justify-content: space-between;
 }
 
-/* Long-Game */
+/* Long Game and Short Game media containers */
 .media-container-label {
     background-color: rgba(241, 232, 232, 0.5);
     border-radius: 10px;
@@ -292,6 +292,15 @@ main {
     width: 100%;
     background: url("../images/back-view-man-grassy-golf-field.jpg") no-repeat center center/cover;
     position: relative;
+    /* Ensure content fits over image */
+    overflow: auto;
+}
+
+/* Short Game */
+#short-game {
+    height: 100vh;
+    width: 100%;
+    background: url("../images/front-view-man-playing-golf-with-club.jpeg") no-repeat center center/cover;
     /* Ensure content fits over image */
     overflow: auto;
 }
@@ -425,13 +434,12 @@ footer {
         margin-left: 30px;
     }
 
-    /* Long Game */
+    /* Long Game and Short Game */
     .media-container-label {
         width: 50%;
         /* hubspot blog - center div contents */
         transform: translate(50%);
     }
-
 
     /* Footer Content */
     #footer i {
