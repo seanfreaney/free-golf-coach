@@ -277,7 +277,6 @@ main {
     overflow-y: auto;
     display: flex;
     gap: 5px;
-    /* justify-content: center; */
     margin: auto;
     align-items: center;
     padding: 5px;
@@ -436,6 +435,11 @@ footer {
         width: 50%;
         /* hubspot blog - center div contents */
         transform: translate(50%);
+    }
+
+    .media-container-1 {
+        /* Center content on bigger screens */
+        justify-content: center;
     }
 
     /* Footer Content */
