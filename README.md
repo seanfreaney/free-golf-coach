@@ -10,12 +10,12 @@ Ultimately, I would like this to be a content management site where users can sh
 ### Navbar
 - __Navigation Bar__
 
-  - Responsive navbar has been included on all three pages. Includes linke to Logo, Home, Long Game and Short Game pages.
+  - Responsive navbar has been included on all three pages. Includes links to Logo, Home, Long Game and Short Game pages.
   - Bottom border to show user their current location in the site.
-  - Dropdown menu for smaller screns.
+  - Dropdown menu for smaller screens.
 
-### Homepage Image
-- __Homepage Image__
+### Home Page Image
+- __Home Page Image__
   
   - Image of golfer at the top of their follow-through with a scenic background. Found on www.freepik.com.
   - Responsive textbox overlay. Opacity used for contrast while not disturbing the image
@@ -32,13 +32,38 @@ Ultimately, I would like this to be a content management site where users can sh
 
   - Responsively styled footer section containing external links to all relevant social media sites.
 
+### Long Game Image
+- __Long Game Image__
+  - Image of golfer at top of their follow-through with a scenic background. Found on www.freepik.com.
+  - This image was used as it is from the same creator as the Home page and Short Game image. It is difficult to find golf related images with a central focal point and similar colors.
+  - Responsive textbox overlay. Opacity used for contrast while not disturbing the image.
+
+### Video Content
+- __Video Content__
+  - Included video content for long game and short game pages.
+  - These videos are from some of my favourite golf content creators.
+  - Vidoes have been embedded from youtube and have audio and fullscreen capabilities.
+  - They are on a responsive div and include a scrollbar for ease of use.
+
+### Short Game Image
+- __Short Game Image__
+  - Image of golfer in a bunker with a scenic background. Found on www.freepik.com.
+  - This image was used as it is from the same creator as the Home page and Long Game image. It is difficult to find golf related images with a central focal point and similar colors.
+  - Responsive textbox overlay. Opacity used for contrast while not disturbing the image
+
+### Additional features
+- __CMS__
+  - Ultimately, I would like to create a content management site but don't yet possess the skills. I want to give users the ability to have their own page, upload and interact with content.
 
 ## Testing
 
 ### Validator Testing
-
-- HTML
+- __HTML__
   - No errors returend through W3C validator.
 
-- CSS
+- __CSS__
   - No errors returned through jigsaw validator.
+
+### Unfixed Bugs
+- __Video Content__
+  - I would like to add additional styling to video containers. I want to only show one video in each container at a time and allow users to scroll through to their preferred video.
