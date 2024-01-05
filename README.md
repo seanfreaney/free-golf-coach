@@ -29,6 +29,7 @@ Ultimately, I would like this to be a content management site where users can sh
   - Image of a bunker with a scenic view. Found on pexels.com.
   - Responsive Sign up form for site users to join our community and subscribe to weekly newsletter. Opacity used for contrast while not disturbing the image. Allow user to optionally provide their handicap.
 ![Community Banner](assets/media/community-banner.png)
+
 ![Community Image](assets/media/community-image.png)
 
 ### Footer
@@ -49,6 +50,7 @@ Ultimately, I would like this to be a content management site where users can sh
   - These videos are from some of my favourite golf content creators.
   - Vidoes have been embedded from youtube and have audio and fullscreen capabilities.
   - They are on a responsive div and include a scrollbar for ease of use.
+  - Title added for accessibility.
 ![Video Content](assets/media/media-content.png)
 
 ### Short Game Image
@@ -127,12 +129,13 @@ W3C Schools
   - Icons from Font Awesome.
 
 ### Media
-- __Youtube__
+- __Videos__
+  - __Youtube__
   - Tutorial videos are all taken from Youtube.
-- __Freepik.com__
+- __Images__
+  - __Freepik.com__
   - Background images for Home, Short Game and Long Game pages.
-- __Pexels.com__
+  - __Pexels.com__
   - Background image for Community. 
 
-### Images
 
