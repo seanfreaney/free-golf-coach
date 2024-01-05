@@ -84,6 +84,10 @@ Ultimately, I would like this to be a content management site where users can sh
 | Click Videos Fullscreen (Long Game) | Video plays Fullscreen | Video plays Fullscreen |
 | Click Videos (Short Game) | Video plays | Video plays |
 | Click Videos Fullscreen (Short Game) | Video plays | Video plays |
+| Header Responsivity | Change for screen size | Change for screen size |
+| Footer Responsivity | Change for screen size | Change for screen size |
+| Text Responsivity | Change for screen size | Change for screen size |
+| Video container Responsivity | Change for screen size | Change for screen size |
 
   - All video links have been tested for audio and fullscreen 
 
