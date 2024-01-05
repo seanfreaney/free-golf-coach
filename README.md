@@ -29,7 +29,6 @@ Ultimately, I would like this to be a content management site where users can sh
   - Image of a bunker with a scenic view. Found on pexels.com.
   - Responsive Sign up form for site users to join our community and subscribe to weekly newsletter. Opacity used for contrast while not disturbing the image. Allow user to optionally provide their handicap.
 ![Community Banner](assets/media/community-banner.png)
-
 ![Community Image](assets/media/community-image.png)
 
 ### Footer
@@ -70,26 +69,26 @@ Ultimately, I would like this to be a content management site where users can sh
 
 | Action    | Expectation | Result | 
 | ---------|:-------------------:|----------|
-| Enter URL | Arrive at Home | Arrive at Home |
-| Click Logo | Arrive at Home | Arrive at Home |
-| Click Home | Arrive at Home | Arrive at Home |
-| Click Home | Arrive at Home, Home link underlined | Arrive at Home, Home link underlined |
-| Click Long Game | Arrive at Long Game | Arrive at Long Game |
-| Click Long Game | Arrive at Long Game, Long Game underlined | Arrive at Long Game, Long Game underlined |
-| Click Short Game | Arrive at Short Game | Arrive at Short Game |
-| Click Short Game | Arrive at Short Game, Short Game underlined | Arrive at Short Game, Short Game underlined |
-| Click Facebook Logo | Arrive at Facebook Home | Arrive at Facebook Home |
-| Click X Logo | Arrive at X Home | Arrive at X Home |
-| Click Instagram Logo | Arrive at Instagram Home | Arrive at Instagram Home |
-| Click Youtube Logo | Arrive at Youtube Home | Arrive at Youtube Home |
-| Click Videos (Long Game) | Video plays | Video plays |
-| Click Videos Fullscreen (Long Game) | Video plays Fullscreen | Video plays Fullscreen |
-| Click Videos (Short Game) | Video plays | Video plays |
-| Click Videos Fullscreen (Short Game) | Video plays | Video plays |
-| Header Responsivity | Change for screen size | Change for screen size |
-| Footer Responsivity | Change for screen size | Change for screen size |
-| Text Responsivity | Change for screen size | Change for screen size |
-| Video container Responsivity | Change for screen size | Change for screen size |
+| Enter URL | Arrive at Home | Pass |
+| Click Logo | Arrive at Home | Pass |
+| Click Home | Arrive at Home | Pass |
+| Click Home | Arrive at Home, Home link underlined | Pass |
+| Click Long Game | Arrive at Long Game | Pass |
+| Click Long Game | Arrive at Long Game, Long Game underlined | Pass |
+| Click Short Game | Arrive at Short Game | Pass |
+| Click Short Game | Arrive at Short Game, Short Game underlined | Pass |
+| Click Facebook Logo | Arrive at Facebook Home | Pass |
+| Click X Logo | Arrive at X Home | Pass |
+| Click Instagram Logo | Arrive at Instagram Home | Pass |
+| Click Youtube Logo | Arrive at Youtube Home | Pass |
+| Click Videos (Long Game) | Video plays | Pass |
+| Click Videos Fullscreen (Long Game) | Video plays Fullscreen | Pass |
+| Click Videos (Short Game) | Video plays | Pass |
+| Click Videos Fullscreen (Short Game) | Video plays | Pass |
+| Header Responsivity | Change for screen size | Pass |
+| Footer Responsivity | Change for screen size | Pass |
+| Text Responsivity | Change for screen size | Pass |
+| Video container Responsivity | Change for screen size | Pass |
 
   - All video links have been tested for audio and fullscreen 
 

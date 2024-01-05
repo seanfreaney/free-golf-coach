@@ -128,11 +128,6 @@ header a {
     display: block;
 }
 
-/* Main */
-main {
-    /* Ensure margin visible beneath header */
-    margin-top: 50px;
-}
 
 /* Hero (Love Running) */
 #hero {
@@ -298,6 +293,7 @@ main {
     position: relative;
     /* Ensure content fits over image */
     overflow: auto;
+    margin-top: 50px;
 }
 
 /* Short Game */
@@ -308,6 +304,7 @@ main {
     background: url("../images/front-view-man-playing-golf-with-club.jpeg") no-repeat center center/cover;
     /* Ensure content fits over image */
     overflow: auto;
+    margin-top: 50px;
 }
 
 /* Footer */
@@ -373,10 +370,6 @@ footer {
     }
 
     /* Main Content */
-    main {
-        margin-top: 60px;
-    }
-
     #hero {
         height: 800px;
     }
