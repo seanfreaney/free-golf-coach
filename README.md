@@ -57,6 +57,13 @@ Ultimately, I would like this to be a content management site where users can sh
 
 ## Testing
 
+### Testing Table
+
+| Action    | Expectation (centered) | Result | 
+| ---------|:-------------------:|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 ### Validator Testing
 - __HTML__
   - No errors returend through W3C validator.
@@ -78,13 +85,13 @@ Ultimately, I would like this to be a content management site where users can sh
 
 - The live link can be found here: <https://seanfreaney.github.io/free-golf-coach/>
 
-### Credits
+## Credits
 
-## Navbar
+### Navbar
 W3C Schools
 <https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp#:~:text=Use%20a%20container%20element%20(like>,dropdown%20menu%20correctly%20with%20CSS
 
-## Font Awesome
+### Font Awesome
 - __Link__
   - Youtube
   - <https://www.youtube.com/watch?v=8-VRIEaIKqI>
@@ -92,7 +99,7 @@ W3C Schools
 - __Icons__
   - Icons from Font Awesome.
 
-## Media
+### Media
 - __Youtube__
   - Tutorial videos are all taken from Youtube.
 - __Freepik.com__
@@ -100,5 +107,5 @@ W3C Schools
 - __Pexels.com__
   - Background image for Community. 
 
-## Images
+### Images
 
