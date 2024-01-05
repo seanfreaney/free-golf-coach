@@ -80,7 +80,12 @@ Ultimately, I would like this to be a content management site where users can sh
 | Click X Logo | Arrive at X Home | Arrive at X Home |
 | Click Instagram Logo | Arrive at Instagram Home | Arrive at Instagram Home |
 | Click Youtube Logo | Arrive at Youtube Home | Arrive at Youtube Home |
+| Click Videos (Long Game) | Video plays | Video plays |
+| Click Videos Fullscreen (Long Game) | Video plays Fullscreen | Video plays Fullscreen |
+| Click Videos (Short Game) | Video plays | Video plays |
+| Click Videos Fullscreen (Short Game) | Video plays | Video plays |
 
+  - All video links have been tested for audio and fullscreen 
 
 ### Validator Testing
 - __HTML__
