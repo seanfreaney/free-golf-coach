@@ -13,12 +13,14 @@ Ultimately, I would like this to be a content management site where users can sh
   - Responsive navbar has been included on all three pages. Includes links to Logo, Home, Long Game and Short Game pages.
   - Bottom border to show user their current location in the site.
   - Dropdown menu for smaller screens.
+  ![Navbar](assets/media/header.png)
 
 ### Home Page Image
 - __Home Page Image__
   
   - Image of golfer at the top of their follow-through with a scenic background. Found on www.freepik.com.
   - Responsive textbox overlay. Opacity used for contrast while not disturbing the image
+![Home Image](assets/media/home-image.png)
 
 ### Community
 - __Community__
@@ -26,17 +28,20 @@ Ultimately, I would like this to be a content management site where users can sh
   - Community banner in keeping with navbar. (used H1 element to ensure text in keeping with header).
   - Image of a bunker with a scenic view. Found on pexels.com.
   - Responsive Sign up form for site users to join our community and subscribe to weekly newsletter. Opacity used for contrast while not disturbing the image. Allow user to optionally provide their handicap.
+![Community Banner](assets/media/community-banner.png)
+![Community Image](assets/media/community-image.png)
 
 ### Footer
 - __Footer__
-
   - Responsively styled footer section containing external links to all relevant social media sites.
+  ![Footer Image](assets/media/footer.png)
 
 ### Long Game Image
 - __Long Game Image__
   - Image of golfer at top of their follow-through with a scenic background. Found on www.freepik.com.
   - This image was used as it is from the same creator as the Home page and Short Game image. It is difficult to find golf related images with a central focal point and similar colors.
   - Responsive textbox overlay. Opacity used for contrast while not disturbing the image.
+![Long Game Image](assets/media/long-game-image.png)
 
 ### Video Content
 - __Video Content__
@@ -44,12 +49,14 @@ Ultimately, I would like this to be a content management site where users can sh
   - These videos are from some of my favourite golf content creators.
   - Vidoes have been embedded from youtube and have audio and fullscreen capabilities.
   - They are on a responsive div and include a scrollbar for ease of use.
+![Video Content](assets/media/media-content.png)
 
 ### Short Game Image
 - __Short Game Image__
   - Image of golfer in a bunker with a scenic background. Found on www.freepik.com.
   - This image was used as it is from the same creator as the Home page and Long Game image. It is difficult to find golf related images with a central focal point and similar colors.
-  - Responsive textbox overlay. Opacity used for contrast while not disturbing the image
+  - Responsive textbox overlay. Opacity used for contrast while not disturbing the image.
+![Short Game Image](assets/media/short-game-image.png)
 
 ### Additional features
 - __CMS__
@@ -59,10 +66,21 @@ Ultimately, I would like this to be a content management site where users can sh
 
 ### Testing Table
 
-| Action    | Expectation (centered) | Result | 
+| Action    | Expectation | Result | 
 | ---------|:-------------------:|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Enter URL | Arrive at Home | Arrive at Home |
+| Click Logo | Arrive at Home | Arrive at Home |
+| Click Home | Arrive at Home | Arrive at Home |
+| Click Home | Arrive at Home, Home link underlined | Arrive at Home, Home link underlined |
+| Click Long Game | Arrive at Long Game | Arrive at Long Game |
+| Click Long Game | Arrive at Long Game, Long Game underlined | Arrive at Long Game, Long Game underlined |
+| Click Short Game | Arrive at Short Game | Arrive at Short Game |
+| Click Short Game | Arrive at Short Game, Short Game underlined | Arrive at Short Game, Short Game underlined |
+| Click Facebook Logo | Arrive at Facebook Home | Arrive at Facebook Home |
+| Click X Logo | Arrive at X Home | Arrive at X Home |
+| Click Instagram Logo | Arrive at Instagram Home | Arrive at Instagram Home |
+| Click Youtube Logo | Arrive at Youtube Home | Arrive at Youtube Home |
+
 
 ### Validator Testing
 - __HTML__
